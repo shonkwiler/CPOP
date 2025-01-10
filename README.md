@@ -3,7 +3,7 @@
 
 This repository gives a reference implementation of the Confined Polygons from Order Polytopes (CPOP) algorithm introduced in the following paper:
 
-* Clayton Shonkwiler and Kandin Theis. Direct sampling of confined polygons in linear time. Preprint, 2025.
+* Clayton Shonkwiler and Kandin Theis. Direct sampling of confined polygons in linear time. Preprint, 2025. [arXiv:2501.04885 [math.GT]](https://arxiv.org/abs/2501.04885).
 
 CPOP is implemented as a compiled Mathematica function in [`CPOP.nb`](CPOP.nb). If you do not have Mathematica installed, this can be opened (but not evaluated) with the free [Wolfram Player](https://www.wolfram.com/player/).
 
